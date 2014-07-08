@@ -20,6 +20,7 @@ README.md Revision History
 --
 
 - 7/8/14 [Robert Carmosino] - Organize README.md
+- 7/8/14 [Matt Salsamendi] - I ain't no PR manager. :P
 
 
 
@@ -29,8 +30,8 @@ Contributors
 Those who have contributed to the repository have their names listed below:
 
 * [Robert Carmosino] - README.md Author
-* [Matthew Salsamendi] - Website Contributor / PR Manager
-* [Connor Peet] - Website Contributor
+* [Matthew Salsamendi] - MCProHosting (Web Infrastructure, Funding, Planning)
+* [Connor Peet] - MCProHosting (Lead Web Developer)
 * [David Wasman] - Website Contributor
 * [Jack Cook] - Website Contributor
 
