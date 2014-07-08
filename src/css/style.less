@@ -10,10 +10,10 @@
 @font-family-sans-serif: "Museo Sans", sans-serif;
 @logo-width: 125px;
 @logo-bar-height: 72px;
-@footer-height: 65px;
+@footer-height: 80px;
 
 html, body {
-    height: 100%;
+    min-height: 100%;
 }
 
 body {
@@ -122,12 +122,17 @@ footer {
         letter-spacing: 1px;
         color: #333;
         font-size: 18px;
+        margin-top: 15px;
 
         &:hover {
             text-decoration: none;
             background: #eee;
         }
     }
+}
+
+.text-center {
+    text-align: center;
 }
 
 .profile-slider {
