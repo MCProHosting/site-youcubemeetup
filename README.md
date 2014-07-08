@@ -12,30 +12,10 @@ Open source website for the YouTuber/Servers Meetup in New York organized due to
 Pull Requests
 --
 
-All pull requests are welcomed and will be examined for modification to the website. Please include a modification to this markdown file if you wish to be listed under the contributors section. Alternatively, contact Robert on [Github][Robert Carmosino] or [Twitter][RCTwitter] and I will add you to the list if your PR is implemented.
+All pull requests are welcomed and will be examined for modification to the website.
 
-
-
-README.md Revision History
---
-
-- 7/8/14 [Robert Carmosino] - Organize README.md
-- 7/8/14 [Matthew Salsamendi] - I ain't no PR manager. :P
-- 7/8/14 [Robert Carmosino] - Fix Matthew's Hyperlink
-
-
-
-Contributors
---
-
-Those who have contributed to the repository have their names listed below:
-
-* [Robert Carmosino] - README.md Author
-* [Matthew Salsamendi] - MCProHosting (Web Infrastructure, Funding, Planning)
-* [Connor Peet] - MCProHosting (Lead Web Developer)
-* [David Wasman] - Website Contributor
-* [Jack Cook] - Website Contributor
-
+ - [README.md Revision History](https://github.com/MCProHosting/site-youcubemeetup/commits/master/README.md)
+ - [Contributors](https://github.com/MCProHosting/site-youcubemeetup/graphs/contributors)
 
 
 [Website]:http://youcubemeetup.com/
