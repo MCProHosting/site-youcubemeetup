@@ -7,7 +7,14 @@ Open source website for the YouTuber/Servers Meetup in New York organized due to
   - **Time:** *To Be Determined*
   - **Place:** *To Be Determined*
 
+Building the Site
+--
 
+Node.js and NPM must be installed first.
+
+ 1. If you do not have Bower and Grunt installed globally yet, run `npm install -g grunt-cli bower`.
+ 2. For your first build, with the current working directory set to this project directory, run `npm install && bower install` to install necessary dependencies.
+ 3. Run `grunt`, again with the current working directory set to this project directory. This will compile all assets without any minification. You can alternately run `grunt dist` to run the site, minifying HTML, CSS, Javascript, images, etc. This may take several minutes to run.
 
 Pull Requests
 --
