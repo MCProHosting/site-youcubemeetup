@@ -20,7 +20,8 @@ README.md Revision History
 --
 
 - 7/8/14 [Robert Carmosino] - Organize README.md
-- 7/8/14 [Matt Salsamendi] - I ain't no PR manager. :P
+- 7/8/14 [Matthew Salsamendi] - I ain't no PR manager. :P
+- 7/8/14 [Robert Carmosino] - Fix Matthew's Hyperlink
 
 
 
