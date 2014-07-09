@@ -33,12 +33,6 @@
         }, 2000);
     });
 
-    #('.register').click(function() {
-        var valid = confirm("I confirm that I am at least 15 years of age or have a legal guardian that will be attending the event with me. I also confirm that I own a Mineorama ticket and will show up with proof of payment.");
-        if (valid) {
-            location.href = "http://goo.gl/7sAk0x";
-        }
-    });
 
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
