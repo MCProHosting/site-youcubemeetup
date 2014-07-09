@@ -4,8 +4,8 @@ YouCube NY Meetup
 Open source website for the YouTuber/Servers Meetup in New York organized due to the postponing of Mineorama.
 
   - **Date:** July 12th, 2014
-  - **Time:** *To Be Determined*
-  - **Place:** *To Be Determined*
+  - **Time:** 9:00 AM to 6:00 PM PDT
+  - **Place:** 125 West 18th Street New York, NY 10011
 
 Building the Site
 --
