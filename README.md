@@ -5,7 +5,7 @@ Open source website for the YouTuber/Servers Meetup in New York organized due to
 
 In order to get admitted to the Meetup you need to have your Mineorama ticket, which will not be collected. You will have to provide proof of registration for the meetup that you got when registering for your ticket on the follwing website: http://goo.gl/7sAk0x. Registering at http://goo.gl/7sAk0x is mandatory for admission.
 
-Anyone that is 15 or younger that is panning on attending has to be with a legal gardian.
+Anyone that is 15 or younger that is panning on attending has to be with a legal guardian.
 
   - **Date:** July 12th, 2014
   - **Time:** 9:00 AM to 6:00 PM EST
