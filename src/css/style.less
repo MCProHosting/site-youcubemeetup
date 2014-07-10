@@ -10,11 +10,6 @@
 @font-family-sans-serif: "Museo Sans", sans-serif;
 @logo-width: 125px;
 @logo-bar-height: 72px;
-@footer-height: 80px;
-
-html, body {
-    min-height: 100%;
-}
 
 body {
     background: url('../img/background.jpg') center center no-repeat;
@@ -22,21 +17,11 @@ body {
     font-weight: 300;
 }
 
-.page {
-    min-height: 100%;
-    margin-bottom: -@footer-height;
-
-    &:after {
-        content: "";
-        display: block;
-        height: @footer-height;
-    }
-}
-
 h1, h2 {
     margin: 0;
     font-weight: 200;
 }
+
 header {
     background: url('../img/logo.png') center center no-repeat;
     position: relative;
@@ -132,7 +117,7 @@ main {
 
     .follow {
         line-height: 50px;
-        background: #46AF00;
+        background: #5ACEEE;
         text-align: center;
         text-transform: uppercase;
         letter-spacing: 1px;
@@ -141,26 +126,6 @@ main {
         margin-top: 10px;
         margin-bottom: 5px;
         margin-right: 25%;
-    }
-}
-
-footer {
-    height: @footer-height;
-
-    .follow-btn {
-        line-height: 50px;
-        background: #fff;
-        text-align: center;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        color: #333;
-        font-size: 18px;
-        margin-top: 15px;
-
-        &:hover {
-            text-decoration: none;
-            background: #eee;
-        }
     }
 }
 
