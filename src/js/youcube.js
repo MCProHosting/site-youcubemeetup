@@ -13,6 +13,13 @@
         $(window).resize(computeResize);
     });
 
+    $('#register').click(function() {
+        var valid = confirm("I confirm that I am at least 15 years of age or have a legal guardian that will be attending the event with me. I also confirm that I own a Mineorama ticket and will show up with proof of payment.");
+        if (valid) {
+            location.href = "http://goo.gl/7sAk0x";
+        }
+    });
+
     $('.profile-slider').each(function () {
         var $this     = $(this),
             $offseter = $('<div class="profile-slider-offset" />');
