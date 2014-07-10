@@ -8,7 +8,7 @@ In order to get admitted to the Meetup you need to have your Mineorama ticket, w
 Anyone that is 15 or younger that is panning on attending has to be with a legal gardian.
 
   - **Date:** July 12th, 2014
-  - **Time:** 9:00 AM to 6:00 PM PDT
+  - **Time:** 9:00 AM to 6:00 PM EST
   - **Place:** 125 West 18th Street New York, NY 10011
 
 Building the Site
